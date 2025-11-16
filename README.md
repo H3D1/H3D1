@@ -1,6 +1,6 @@
 #  I'm Mohamed Hedi BEJAOUI
 
-**`Full-Stack Developer | Problem Solver | Digital Builder`**
+**`Full-Stack Developer | Web, Cloud Solutions & Data Dashboards`**
 
 I'm a full-stack developer from Tunisia, crafting digital solutions from concept to deployment. Every project I build starts with careful planning and architecture design, progresses through clean code implementation, and ends with real-world impact. I specialize in creating secure, scalable applications that solve actual business problems—from payment gateways handling real transactions to dashboards that cut incident detection time by 40%.
 
