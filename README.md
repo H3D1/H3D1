@@ -89,7 +89,7 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 - 📧 Email: bejaouimedhedi2@gmail.com
 - 💼 LinkedIn: [med-hedi-bejaoui](https://linkedin.com/in/med-hedi-bejaoui-33560b1a0)
 - 🐙 GitHub: [@H3D1](https://github.com/H3D1)
-- 📱 Phone: +216 52 59 08 80
+- 📱 Phone: +216 52 59 08 60
 
 ---
 
