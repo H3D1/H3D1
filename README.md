@@ -93,4 +93,4 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 
 ---
 
-💡 *"I don't just write code—I architect solutions that solve real problems and deliver measurable impact."*
+💡 *"You're better off with a kick-ass half than a half-assed whole." -David Heinemeier Hansson*
