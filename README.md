@@ -38,23 +38,6 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 
 #
 
-### 🚀 Featured Projects
-
-**💳 Global Payment Gateway** *(Jan 2025 - June 2025)*
-- Secure payment platform integrating Lyra API with 100% successful test transactions
-- Multi-layer auth (JWT, 2FA) with Angular + .NET backend
-- Real-time admin dashboard reducing incident detection time by 40%
-- API performance optimized to <200ms response times under load
-- **Tech:** Angular, .NET, MySQL, JWT, Lyra API
-
-**🌐 Full-Stack Web Application** *(ARABSOFT Internship)*
-- Designed system architecture and developed full-stack features
-- Built with Angular, Spring Boot, and MySQL
-- Integrated external APIs for real-time data handling
-- **Tech:** Angular, Spring Boot, MySQL, REST APIs
-
-#
-
 ### 💼 Professional Experience
 
 - ** ISET Radès** - Full-Stack Development Graduate (3.02 GPA)
