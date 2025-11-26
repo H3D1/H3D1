@@ -40,11 +40,11 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 
 ### 💼 Professional Experience
 
-- ** ISET Radès** - Full-Stack Development Graduate (3.02 GPA)
-- ** ARABSOFT** - End-of-Studies Project Intern
-- ** AIESEC** - Global Talent Department Member
-- ** IEEE ISET Rades** - Sponsorship Manager
-- ** Enactus ISET Rades** - Project Department Member
+- ** ISET Radès ** - Full-Stack Development Graduate (3.02 GPA)
+- ** ARABSOFT ** - End-of-Studies Project Intern
+- ** AIESEC ** - Global Talent Department Member
+- ** IEEE ISET Rades ** - Sponsorship Manager
+- ** Enactus ISET Rades ** - Project Department Member
 
 #
 
