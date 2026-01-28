@@ -17,7 +17,7 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -36,19 +36,7 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
-
-### 💼 Professional Experience
-
-- ** ISET Radès ** - Full-Stack Development Graduate (3.02 GPA)
-- ** ARABSOFT ** - End-of-Studies Project Intern
-- ** AIESEC ** - Global Talent Department Member
-- ** IEEE ISET Rades ** - Sponsorship Manager
-- ** Enactus ISET Rades ** - Project Department Member
-
-#
-
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3D1&show_icons=true&theme=radical)
 
@@ -56,24 +44,22 @@ Currently based in Bizerte, Tunisia, building applications that matter.
 
 #
 
-### 🎯 What I'm About
+### What I'm About
 
-- 🔨 Building production-ready applications from scratch
-- 🔐 Security-first development approach (JWT, 2FA, secure APIs)
-- ⚡ Performance optimization enthusiast (<200ms API responses)
-- 🎨 Creative side: Game development, graphic design, video content creation
-- 📊 Data analysis with Python (NumPy, Pandas)
-- 🌍 Cross-cultural collaboration experience (AIESEC, IEEE)
+- Building production-ready applications from scratch
+- Security-first development approach (JWT, 2FA, secure APIs)
+- Performance optimization enthusiast (<200ms API responses)
+- Creative side: Game development, graphic design, video content creation
+- Data analysis with Python (NumPy, Pandas)
+- Cross-cultural collaboration experience (AIESEC, IEEE)
 
 #
 
-### 📫 Get In Touch
+### Get In Touch
 
-- 📧 Email: bejaouimedhedi2@gmail.com
-- 💼 LinkedIn: [med-hedi-bejaoui](https://linkedin.com/in/med-hedi-bejaoui-33560b1a0)
-- 🐙 GitHub: [@H3D1](https://github.com/H3D1)
-- 📱 Phone: +216 52 59 08 60
+- Email: bejaouimedhedi2@gmail.com
+- LinkedIn: [med-hedi-bejaoui](https://linkedin.com/in/med-hedi-bejaoui-33560b1a0)
+- GitHub: [@H3D1](https://github.com/H3D1)
+- Phone: +216 52 59 08 60
 
 ---
-
-💡 *"You're better off with a kick-ass half than a half-assed whole." -David Heinemeier Hansson*
