@@ -65,6 +65,6 @@ Open to Werkstudent and junior IT roles on-site or remotely
 - Email: bejaouimedhedi2@gmail.com
 - LinkedIn: [med-hedi-bejaoui](https://linkedin.com/in/med-hedi-bejaoui-33560b1a0)
 - GitHub: [@H3D1](https://github.com/H3D1)
-- Phone: +216 52 59 08 60
+- Phone: +49 015510 947273
 
 ---
