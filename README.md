@@ -2,9 +2,14 @@
 
 **`Full-Stack Developer | Web, Cloud Solutions & Data Dashboards`**
 
-I'm a full-stack developer from Tunisia, crafting digital solutions from concept to deployment. Every project I build starts with careful planning and architecture design, progresses through clean code implementation, and ends with real-world impact. I specialize in creating secure, scalable applications that solve actual business problems—from payment gateways handling real transactions to dashboards that cut incident detection time by 40%.
-
-Currently based in Bizerte, Tunisia, building applications that matter.
+Full-stack developer and IT graduate with hands-on experience
+building web applications across the entire stack from Angular and
+Next.js frontends to Spring Boot and FastAPI backends. Comfortable
+with Python, TypeScript, Java, and cloud tools like Docker. Currently
+based in Heidelberg, Germany, pursuing an intensive Sprachkurs while
+actively building AI-powered projects. Holds IELTS C1 and TCF C1,
+making me effective in English and French-speaking environments.
+Open to Werkstudent and junior IT roles on-site or remotely
 
 <p align="left">
    <a href="https://github.com/H3D1?tab=followers">
