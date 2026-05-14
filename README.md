@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer | Web, Cloud Solutions & Data Dashboards`**
 
-Full-stack Software Engineer and IT graduate with hands-on experience building web applications across the entire stack, from Angular and Next.js frontends to Spring Boot, .NET, and FastAPI backends. Currently based in Heidelberg, Germany, I am pursuing an intensive immersion program with a C1 German proficiency target for September 2026 while actively scaling my expertise in Cloud-Native architecture and the AWS ecosystem. My background includes developing high-performance, secure platforms in the Fintech sector, where I focused on optimizing integration layers and API latency. I operate fluently in English and French and I am now leveraging my stack—including TypeScript, Java, and Docker—to build and deploy AI-powered projects in the cloud. I am currently seeking Werkstudent or Junior IT roles where I can contribute to complex infrastructure problems.
+Software Engineer and C1-level communicator in English and French, currently based in Heidelberg and undergoing an intensive German immersion program with a C1 proficiency target for September 2026. I specialize in Full-Stack development and am actively pivoting toward Cloud-Native architecture to support the deployment and scaling of AI-powered applications. My focus is on joining a high-stakes IT environment in an entry-level role where I can apply my experience in secure, scalable systems while reaching professional fluency in German
 
 <p align="left">
    <a href="https://github.com/H3D1?tab=followers">
