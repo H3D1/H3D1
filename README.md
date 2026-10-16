@@ -118,7 +118,7 @@ Backend and full-stack development internship.
 | 🇹🇳 Arabic | Native |
 | 🇬🇧 English | C1 — IELTS Academic |
 | 🇫🇷 French | C1 — TCF |
-| 🇩🇪 German | B2 _ Currently improving through intensive study |
+| 🇩🇪 German | Currently improving through intensive study |
 
 ---
 
